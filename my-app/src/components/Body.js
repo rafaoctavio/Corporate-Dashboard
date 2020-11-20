@@ -11,7 +11,7 @@ function Body () {
         <div id="wrapper">
             <Sidebar/>
             <Topbar />
-            <Main/>
+            
             <Footer/>
         </div> 
 
