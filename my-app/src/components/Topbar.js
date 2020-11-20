@@ -3,7 +3,8 @@ import React from 'react';
 
 function Topbar (){
     return (
-        <div id="content-wrapper" class="d-flex flex-column">
+            
+    <div id="content-wrapper" class="d-flex flex-column">
 
 
         <div id="content">
@@ -43,15 +44,17 @@ function Topbar (){
                     <li class="nav-item dropdown no-arrow">
                         <a class="nav-link dropdown-toggle" href="/" id="userDropdown">
                             <span class="mr-2 d-none d-lg-inline text-gray-600 small">Walter White</span>
-                            <img class="img-profile rounded-circle" src="assets/images/dummy-avatar.jpg" width="60"></img>
+                            <img class="img-profile rounded-circle" src="public/dummy-avatar.jpg" width="60"></img>
                         </a>
                     </li>
 
                 </ul>
 
             </nav>
+        </div>
     </div>
-    </div>
+    
+    
     
 
 
