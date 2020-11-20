@@ -4,11 +4,6 @@ import React from 'react';
 function Topbar (){
     return (
             
-    <div id="content-wrapper" className="d-flex flex-column">
-
-
-        <div id="content">
-
     
             <nav className="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
 
@@ -51,8 +46,7 @@ function Topbar (){
                 </ul>
 
             </nav>
-        </div>
-    </div>
+
     
     
     
