@@ -39,7 +39,7 @@ function Topbar (){
                     <li className="nav-item dropdown no-arrow">
                         <a className="nav-link dropdown-toggle" href="/" id="userDropdown">
                             <span className="mr-2 d-none d-lg-inline text-gray-600 small">Walter White</span>
-                            <img className="img-profile rounded-circle" src="/dummy-avatar.jpg" width="60"></img>
+                            <img className="img-profile rounded-circle" alt="User avatar profile" src="/dummy-avatar.jpg" width="60"/>
                         </a>
                     </li>
 
